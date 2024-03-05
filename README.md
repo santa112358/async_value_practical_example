@@ -3,8 +3,9 @@
 Async Value Practical Example illustrates a refined approach to managing multiple
 asynchronous data sources within Flutter applications using the Riverpod library. Inspired by the
 async_value_group library, which relies on tuples, this example builds upon the concept using Dart's
-record feature to enhance readability and usability. It employs the AsyncValue class, the
-AsyncValueSwitcher widget, and the AsyncValueGroup utility to efficiently orchestrate the fetching
+record feature to enhance readability and usability.
+It employs the AsyncValue class, the AsyncValueSwitcher widget, and the AsyncValueGroup utility to
+efficiently orchestrate the fetching
 and rendering of asynchronous data.
 
 Thanks goes to the original author of the async_value_group
