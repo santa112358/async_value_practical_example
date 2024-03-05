@@ -52,8 +52,8 @@ class AsyncValueSwitcher<T> extends StatelessWidget {
 }
 
 /// For slivers
-class SliverAsyncContainer<T> extends StatelessWidget {
-  const SliverAsyncContainer({
+class SliverAsyncValueSwitcher<T> extends StatelessWidget {
+  const SliverAsyncValueSwitcher({
     super.key,
     required this.asyncValue,
     required this.onData,
